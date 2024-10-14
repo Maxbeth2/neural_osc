@@ -1,0 +1,13 @@
+numpy
+pygame
+pynput==1.7.7
+pyobjc-core==10.3.1
+pyobjc-framework-ApplicationServices==10.3.1
+pyobjc-framework-Cocoa==10.3.1
+pyobjc-framework-CoreText==10.3.1
+pyobjc-framework-Quartz==10.3.1
+pyserial==3.5
+python-osc==1.9.0
+setuptools==75.1.0
+six==1.16.0
+wheel==0.44.0
